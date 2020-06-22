@@ -16,4 +16,4 @@ elif item == 3:
 elif item == 4:
     print('your order is Mandhi ,Please wait few minutes')
 else:
-    print('you are enter unvalid number ,Please wait few minutes')3
+    print('you are enter unvalid number ,Please order again')
